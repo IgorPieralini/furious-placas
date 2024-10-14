@@ -1,0 +1,9 @@
+# Arquivo de configuração dos descontos das placas do servidor.
+# * IMPORTANTE * As permissões geradas para compra e venda das placas serão setadas como furiousplacas."NOME DO VIP QUE VOCÊ COLOCOU"
+
+VENDA:
+  # - nomeDoVip: desconto
+
+COMPRA:
+  # - nomeDoVip: desconto
+

@@ -1,0 +1,14 @@
+name: FuriousPlacas
+version: '1.0-SNAPSHOT'
+main: org.lucas.furiousplacas.FuriousPlacas
+description: Plugin de placas para  a Rede Furious
+depend: [ Vault ]
+commands:
+  rldescontos:
+    description: Recarregar o arquivo do yml de descontos
+    permission-message: "§cVocê não tem permissão para usar o comando '/rldescontos'."
+    aliases: [ rldiscount, rld, discountreload, descontosreload ]
+permissions:
+  furiousplacas:
+    description: Permission to get a discount in shop
+    default: op
